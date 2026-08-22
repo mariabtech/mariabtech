@@ -1,12 +1,15 @@
-# Maria Borda
+<h1 align=center>Maria Borda</h1>
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/7d/0a/f4/7d0af406e9952e26c1611dbbc611a0fc.gif"/>
+</div>
 
 Estudante de Tecnologia | Desenvolvimento Web | Design
 
 ---
 
 # 🚀 Tecnologias & Ferramentas
-
-## 🎨 Design & Prototipação
+ 🎨 Design & Prototipação
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
