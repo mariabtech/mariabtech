@@ -42,17 +42,13 @@ s..
 
 ---
 
- Estatísticas do GitHub
+## Estatísticas do GitHub
+
+# 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaBorda7&theme=github_dark"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaBorda7&theme=github_dark"/>
+  <img src="https://metrics.lecoq.io/MariaBorda7?base=header,activity,community,repositories,metadata&config=timezone&theme=tokyonight" alt="Métricas do GitHub de Maria"/>
 </div>
-<br>
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaBorda7&theme=github_dark"/>
-</div>
-
 <div align="center">
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaBorda7&theme=github_dark"/>
