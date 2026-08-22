@@ -1,6 +1,6 @@
-# 👩‍💻 Maria Borda
+# Maria Borda
 
-🚀 Estudante de Tecnologia | Desenvolvimento Web | Design
+Estudante de Tecnologia | Desenvolvimento Web | Design
 
 ---
 
