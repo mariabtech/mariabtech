@@ -100,7 +100,7 @@ Busco evoluir constantemente na área de tecnologia, aprendendo novas ferramenta
 
 <div align="center">
 
-<a href="LINK_DO_LINKEDIN_DA_MARIA">
+<a href="https://www.linkedin.com/in/maria-b-04a61831b/">
   <img src="https://img.shields.io/badge/LinkedIn-E88AAA?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
