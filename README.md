@@ -1,98 +1,119 @@
-<h1 align=center>Maria Borda</h1>
+<a id="inicio"></a>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/7d/0a/f4/7d0af406e9952e26c1611dbbc611a0fc.gif"/>
-</div>
 
-Estudante de Tecnologia | Desenvolvimento Web | Design
-
----
-
-# 🚀 Tecnologias & Ferramentas
- 🎨 Design & Prototipação
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
-## 🛠️ Ferramentas & Versionamento
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-# 👩‍💻 Sobre Mim
-
-Olá! Meu nome é **Maria Borda** ✨
-
-s..
-
----
-
-# 📚 Atualmente Estudando
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## Estatísticas do GitHub
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/MariaBorda7?base=header,activity,community,repositories,metadata&config=timezone&theme=tokyonight" alt="Métricas do GitHub de Maria"/>
-</div>
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaBorda7&theme=github_dark"/>
+<a href="#sobre">
+  <img src="https://img.shields.io/badge/Sobre_Mim-E88AAA?style=for-the-badge" />
+</a>
+<a href="#skills">
+  <img src="https://img.shields.io/badge/Skills_&_Tech-E88AAA?style=for-the-badge" />
+</a>
+<a href="#stats">
+  <img src="https://img.shields.io/badge/Estatísticas-E88AAA?style=for-the-badge" />
+</a>
+<a href="#contato">
+  <img src="https://img.shields.io/badge/Contato-E88AAA?style=for-the-badge" />
+</a>
 
 </div>
 
----
+<br>
 
-# 🔥 Sequência de Contribuições
+<h1 align="center">Maria Borda</h1>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MariaBorda7&theme=tokyonight&hide_border=false"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=E88AAA&size=25&center=true&vCenter=true&width=800&lines=Estudante+de+Tecnologia;Desenvolvimento+Front-end;HTML+%2F+CSS+%2F+JavaScript;Design+%26+Prototipação;Sempre+aprendendo+algo+novo">
+
 </div>
 
----
-
-# 🌐 Redes Sociais
-
-<p>
-  <a href="https://github.com/MariaBorda7">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-# ✨ Objetivo
-
-Buscando evoluir constantemente na área de tecnologia, aprendendo novas ferramentas e desenvolvendo projetos para fortalecer minhas habilidades como desenvolvedora.
-
----
-
-# 👀 Visitantes do Perfil
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MariaBorda7&color=blue&style=for-the-badge"/>
+  <img src="./Kiyumie.gif" width="75%" alt="Banner">
 </div>
 
----
+<br>
 
-# ⚡ Frase Motivacional
+<a id="sobre"></a>
+
+## Sobre Mim
+
+Olá! Meu nome é **Maria Borda**.
+
+Sou estudante de tecnologia, com foco em desenvolvimento **Front-end** e interesse em **Design**.
+
+Busco evoluir constantemente na área de tecnologia, aprendendo novas ferramentas e desenvolvendo projetos para fortalecer minhas habilidades como desenvolvedora.
+
+<br>
+
+<a id="skills"></a>
+
+## Skills & Tecnologias
 
 <div align="center">
 
->“Grandes resultados começam com a decisão de continuar.”
+### Front-end
+
+<img src="https://img.shields.io/badge/HTML5-E88AAA?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-E88AAA?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-E88AAA?style=for-the-badge&logo=javascript&logoColor=white" />
+
+<br><br>
+
+### Design & Prototipação
+
+<img src="https://img.shields.io/badge/Figma-E88AAA?style=for-the-badge&logo=figma&logoColor=white" />
+
+<br><br>
+
+### Ferramentas & Versionamento
+
+<img src="https://img.shields.io/badge/Git-E88AAA?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-E88AAA?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+<br>
+
+<a id="stats"></a>
+
+## Estatísticas
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariabtech&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariabtech&theme=github_dark"/>
+
+<br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariabtech&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<a id="contato"></a>
+
+## Conecte-se Comigo
+
+<div align="center">
+
+<a href="LINK_DO_LINKEDIN_DA_MARIA">
+  <img src="https://img.shields.io/badge/LinkedIn-E88AAA?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/mariabtech">
+  <img src="https://img.shields.io/badge/GitHub-E88AAA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### “Grandes resultados começam com a decisão de continuar.”
 
 </div>
